@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "fastify_postgresql",
+      "database": "postgres_db",
+      "username": "postgres_user",
+      "password": "postgres_password"
+    }
+  ]
+}
